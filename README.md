@@ -4,11 +4,11 @@
 I'm Frontend Developer. I am a qualified and professional web developer with more than one year of website development experience. Strong creative and analytical skills. Team player with an eye for detail. I am able to defend and convey my position to others, taking into account the position of other employees.
 
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=Efim-Kapliy&show_icons=true&count_private=true"><img
+   <a href="https://github-readme-stats.vercel.app/api?username=Efim-Kapliy&show_icons=true&theme=dark&count_private=true"><img
            height=150
-           src="https://github-readme-stats.vercel.app/api?username=Efim-Kapliy&show_icons=true&count_private=true"/></a>
+           src="https://github-readme-stats.vercel.app/api?username=Efim-Kapliy&show_icons=true&theme=dark&count_private=true"/></a>
    <a href="https://github.com/Efim-Kapliy/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efim-Kapliy&layout=compact"/></a>
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efim-Kapliy&layout=compact&theme=dark"/></a>
 </p>
 
 <p align='center'>
