@@ -15,7 +15,7 @@ I'm Frontend Developer. I am a qualified and professional web developer with mor
    <a href="https://www.linkedin.com/in/efim-kapliy/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/+TIsgTtnGpUphY2Yy">
+   <a href="https://t.me/+jcL4lo-6GmQyZjYy">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
