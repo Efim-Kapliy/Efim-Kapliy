@@ -27,7 +27,7 @@ I'm Frontend Developer. I am a qualified and professional web developer with mor
 *   Figma, Photoshop, Avocode, Zeplin, Marcy, Canva
 *   HTML, CSS, Flexbox, Grid
 *   W3C, Bootstrap 4/5, Less / Sass / Scss • Prepros, Styled Components
-*   ES6+, JQuery, React, React PropTypes, React Router 5/6
+*   ES6+, JQuery, React, React PropTypes, React Router 5/6, React Transition Group
 *   npm, pnpm, nvm, Webpack, Gulp, Babel, BEM, Axios, Git, GitHub
 *   Prettier/ESlint
 
