@@ -28,7 +28,8 @@ I'm Frontend Developer. I am a qualified and professional web developer with mor
 *   HTML, CSS, Flexbox, Grid
 *   W3C, Bootstrap 4/5, Less / Sass / Scss • Prepros, Styled Components
 *   ES6+, JQuery, React, React PropTypes, React Router 5/6, React Transition Group
-*   npm, pnpm, nvm, Webpack, Gulp, Babel, BEM, Axios, Git, GitHub
+*   Formik, Yup, React Helmet
+*   npm, pnpm, nvm, Webpack, Vite, Gulp, Babel, BEM, Axios, Git, GitHub
 *   Prettier/ESlint
 
 <div align="center" style="margin: 40px 0">
