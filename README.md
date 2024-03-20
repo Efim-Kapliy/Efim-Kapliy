@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQEUh9B_gkJk-A/profile-displaybackgroundimage-shrink_350_1400/0/1678922195086?e=1710374400&v=beta&t=g8dP4k434WjBWYHEIXg0a-p67gULDFkP1TjDtatVOiw"/>
+<img src="https://media.licdn.com/dms/image/D4E16AQEUh9B_gkJk-A/profile-displaybackgroundimage-shrink_350_1400/0/1678922195086?e=1716422400&v=beta&t=zOnLTLlJlMs4HS4dNryNEIMxW3J02SMNb2NKFz6-2X0"/>
 
 # Hi, I'm Efim 👋
 I'm Frontend Developer. I am a qualified and professional web developer with more than one year of website development experience. Strong creative and analytical skills. Team player with an eye for detail. I am able to defend and convey my position to others, taking into account the position of other employees.
