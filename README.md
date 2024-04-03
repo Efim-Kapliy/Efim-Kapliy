@@ -23,12 +23,12 @@ I'm Frontend Developer. I am a qualified and professional web developer with mor
 </p>
 
 ## 🛠 Technical Stack
-*   JavaScript languages
+*   JavaScript and TypeScript languages
 *   Figma, Photoshop, Avocode, Zeplin, Marcy, Canva
 *   HTML, CSS, Flexbox, Grid
 *   W3C, Bootstrap 4/5, Less / Sass / Scss • Prepros, Styled Components
 *   ES6+, JQuery, React, React PropTypes, React Router 5/6, React Transition Group
-*   Formik, Yup, React Helmet, Rest API
+*   Formik, Yup, React Helmet, Rest API, Redux, Redux Toolkit, RTK Query
 *   npm, pnpm, nvm, Webpack, Vite, Gulp, Babel, BEM, Axios, Git, GitHub
 *   Prettier/ESlint
 
