@@ -6,7 +6,7 @@ I'm Frontend Developer. I am a qualified and professional web developer with mor
 <p align='center'>
    <a href="https://github-stats-chi-opal.vercel.app/api?username=Efim-Kapliy&show_icons=true&theme=dark&count_private=true"><img
            height=150
-           src="github-stats-chi-opal.vercel.app/api?username=Efim-Kapliy&show_icons=true&theme=dark&count_private=true"/></a>
+           src="https://github-stats-chi-opal.vercel.app/api?username=Efim-Kapliy&show_icons=true&theme=dark&count_private=true"/></a>
    <a href="https://github.com/Efim-Kapliy/github-readme-stats"><img height=150
                                                                   src="https://github-stats-chi-opal.vercel.app/api/top-langs/?username=Efim-Kapliy&layout=compact&theme=dark"/></a>
 </p>
