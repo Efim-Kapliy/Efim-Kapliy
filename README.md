@@ -1,4 +1,4 @@
-<img src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/RRaE/GxDac6DTL"/>
+<img src="https://cloud.mail.ru/public/2i9q/a3V5xKNQs"/>
 
 # Hi, I'm Efim 👋
 I'm Frontend Developer. I am a qualified and professional web developer with more than one year of website development experience. Strong creative and analytical skills. Team player with an eye for detail. I am able to defend and convey my position to others, taking into account the position of other employees.
