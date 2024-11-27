@@ -1,7 +1,7 @@
 <img src="https://thumb.cloud.mail.ru/weblink/thumb/xw1/2i9q/a3V5xKNQs"/>
 
 # Hi, I'm Efim 👋
-I'm Frontend Developer. I am a qualified and professional web developer with more than one year of website development experience. Strong creative and analytical skills. Team player with an eye for detail. I am able to defend and convey my position to others, taking into account the position of other employees.
+Hello to the one who is reading this! I'm Frontend Developer. I am a qualified and professional web developer. Strong creative and analytical skills. Team player with an eye for detail. I am able to defend and convey my position to others, taking into account the position of other employees.
 
 <p align='center'>
    <a href="https://github-stats-chi-opal.vercel.app/api?username=Efim-Kapliy&show_icons=true&theme=dark&count_private=true"><img
